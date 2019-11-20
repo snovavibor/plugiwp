@@ -3,8 +3,8 @@
 /**
  * Plugin Name: Add-fields
  * Description: Расширяет профиль пользователя дополнительными метаполями
- * Plugin URI:  Ссылка на инфо о плагине
- * Author URI:  Ссылка на автора
+ * Plugin URI:  https://github.com/snovavibor/plugiwp
+ * Author URI:  https://github.com/snovavibor
  * Author:      chesnokit
  * Version:     1.0
  *
